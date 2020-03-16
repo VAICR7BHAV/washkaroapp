@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1086619162320",
+    "firebase_url": "https://cardview-98281.firebaseio.com",
+    "project_id": "cardview-98281",
+    "storage_bucket": "cardview-98281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086619162320:android:0affe7a200ca0d19",
+        "android_client_info": {
+          "package_name": "com.emozers.cardviewexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086619162320-gft5b3p1lckcshbrf14v6dih8rgu2r55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sAUxWIFTALgBh0mRLnYGbwyFhza7uzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086619162320-gft5b3p1lckcshbrf14v6dih8rgu2r55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086619162320:android:861031c04d8f29c7",
+        "android_client_info": {
+          "package_name": "inspire2connect.inspire2connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086619162320-gft5b3p1lckcshbrf14v6dih8rgu2r55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sAUxWIFTALgBh0mRLnYGbwyFhza7uzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086619162320-gft5b3p1lckcshbrf14v6dih8rgu2r55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
